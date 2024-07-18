@@ -4,7 +4,7 @@ PHP 8 utility library mirroring JavaScript collection APIs (including *Lodash.js
 ## Context
 
 ### Problem
-As a full-stack developer, one of the most significant pain points is regularly switching between environments. While using stacks that share common principles like OOP or design pattern approaches can ease this transition, it's not always the case. Beyond architectural considerations, API differences between stacks present additional challenges. This library aims to address this specific pain point.
+As a full-stack developer, one of the most significant pain points is regularly switching between environments. While using stacks that share common principles like OOP or design pattern approaches can ease this transition, it's not always the case. Beyond architectural considerations, **API differences between stacks present additional and major challenges**. **This library aims to address this specific pain point**.
 
 ### Solution
 The goal of this library is to provide a utility library that shares the same API as Lodash.js. 
