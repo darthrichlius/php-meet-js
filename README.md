@@ -1,5 +1,5 @@
-# lodash-php
-PHP 8 utility library mirroring Lodash.js API for seamless full-stack development
+# PhpMeetJS
+PHP 8 utility library mirroring JavaScript collection APIs (including *Lodash.js*) for seamless full-stack development
 
 ## Context
 
