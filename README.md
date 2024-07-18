@@ -10,10 +10,12 @@ As a full-stack developer, one of the most significant pain points is regularly 
 The goal of this library is to provide a utility library that shares the same API as Lodash.js. 
 
 **Why Lodash?**
+
 1. It's one of the primary utility libraries used by the JavaScript developer community.
 2. Another library called 'underscore' has already been mirrored (see: underscore-php).
 
 **Mirroring Recent Native JavaScript Collection API**
+
 Another key point is that the library will also integrate some well-established native JavaScript collection APIs.
 We will prioritize the most recent additions to ECMAScript, starting with ES2015 features.
 
