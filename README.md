@@ -19,7 +19,7 @@ The goal of this library is to provide a utility library that shares the same AP
 Another key point is that the library will also integrate some well-established native JavaScript collection APIs.
 We will prioritize the most recent additions to ECMAScript, starting with ES2015 features.
 
-## Roadmap
+## Roadmap Strategy
 The development will undergo several phases:
 
 1. **0.0.0.alpha-nightly**: *unstable / private* - This version will consist of regular additions without a clear vision path. The goal is to implement the first elements and learn from them to gradually iterate with the experience gained. The second most important aspect of this version is to provide an embryonic implementation of two crucial parts of a utility library: tests (quality) and documentation.
